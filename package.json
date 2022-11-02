@@ -2,7 +2,7 @@
   "name": "unimport-iss115",
   "main": "index.cjs",
   "dependencies": {
-    "@vueuse/core": "^9.1.1",
-    "unimport": "^0.6.7"
+    "@vueuse/core": "^9.4.0",
+    "unimport": "^0.7.0"
   }
 }
